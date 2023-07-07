@@ -1,0 +1,7 @@
+.layout-fixed .main-sidebar {
+    background-color: #dc3545!important;
+}
+
+input.form-control.form-control-sidebar {
+    background-color: unset !important;
+}
